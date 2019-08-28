@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App contains the increment button 1`] = `"<div id=\\"app\\"><counter-stub></counter-stub></div>"`;
+
+exports[`App renders correctly 1`] = `
+<div
+  id="app"
+>
+  <counter-stub />
+</div>
+`;
